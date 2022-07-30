@@ -2,6 +2,7 @@
 本程序为泰拉瑞亚实用程序<br/>
 1.右键管理员身份运行terrariahackgentool.exe<br/>
 2.按照软件提示进行操作<br/>
+<br/>
 软件功能<br/>
 F1.不死<br/>
 F2.无敌<br/>
